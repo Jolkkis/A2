@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tämä on teksti yksi ja siihen vielä lisää perkele
+=======
+Tämä on teksti yksi jossa on tekstiä
+>>>>>>> Teksti2
